@@ -1,2 +1,3 @@
+include ':ColumnChartLib'
 include ':app'
 rootProject.name = "ColumnChart"

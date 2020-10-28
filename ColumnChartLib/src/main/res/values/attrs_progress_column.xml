@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ProgressColumnView">
+        <!-- 线颜色-->
+        <attr name="lineColor" format="color" />
+        <!-- 文字颜色-->
+        <attr name="textColor" format="color" />
+        <!-- 文字大小-->
+        <attr name="textSize" format="dimension|reference" />
+        <!-- 左边表格宽度-->
+        <attr name="leftTableWidth" format="dimension|reference" />
+        <!-- 底部表格高度-->
+        <attr name="bottomBottomHeight" format="dimension|reference" />
+
+        <!-- 最大值颜色-->
+        <attr name="maxProgressColor" format="color" />
+        <!-- 当前值颜色-->
+        <attr name="currentProgressColor" format="color" />
+    </declare-styleable>
+</resources>

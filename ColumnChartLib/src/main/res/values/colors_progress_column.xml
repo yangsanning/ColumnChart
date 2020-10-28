@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="progress_column_view_line">#222222</color>
+
+    <color name="progress_column_view_text">#333333</color>
+
+    <color name="progress_column_view_max_progress">#66C9FF</color>
+    <color name="progress_column_view_current_progress">#28B8FF</color>
+</resources>
